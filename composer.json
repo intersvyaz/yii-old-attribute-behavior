@@ -1,19 +1,27 @@
-{
-  "name": "intersvyaz/yii-old-attribute-behavior",
-  "description": "Yii old attribute behavior.",
-  "minimum-stability": "stable",
-  "license": "MIT",
-  "require": {
-    "php": ">=5.4.0",
-    "yiisoft/yii" : "~1.1.15"
-  },
-  "autoload": {
-    "psr-4": {"Intersvyaz\\Behavior\\": ""}
-  },
-  "authors" : [
-    {
-      "name": "kikimor",
-      "email": "i@kikimor.ru"
-    }
-  ]
-}
+  {
+    "name": "intersvyaz/yii-old-attribute-behavior",
+    "description": "Yii old attribute behavior.",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "require": {
+      "php": ">=5.4.0",
+      "yiisoft/yii" : "~1.1.15"
+    },
+    "autoload": {
+      "psr-4": {"Intersvyaz\\Behavior\\": ""}
+    },
+    "authors" : [
+      {
+        "name": "rustik",
+        "email": "psrustik@yandex.ru"
+      },
+      {
+        "name": "gureedo",
+        "email": "gureedo@gmail.com"
+      },
+      {
+        "name": "kikimor",
+        "email": "i@kikimor.ru"
+      }
+    ]
+  }
