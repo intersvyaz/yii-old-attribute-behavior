@@ -1,5 +1,7 @@
 # yii-old-attribute-behavior
 
+[![Latest Stable Version](https://poser.pugx.org/intersvyaz/yii-old-attribute-behavior/v/stable.svg)](https://packagist.org/packages/intersvyaz/yii-old-attribute-behavior) [![Total Downloads](https://poser.pugx.org/intersvyaz/yii-old-attribute-behavior/downloads.svg)](https://packagist.org/packages/intersvyaz/yii-old-attribute-behavior) [![Latest Unstable Version](https://poser.pugx.org/intersvyaz/yii-old-attribute-behavior/v/unstable.svg)](https://packagist.org/packages/intersvyaz/yii-old-attribute-behavior) [![License](https://poser.pugx.org/intersvyaz/yii-old-attribute-behavior/license.svg)](https://packagist.org/packages/intersvyaz/yii-old-attribute-behavior)
+
 Example usage:
 ```php
 class User extends CActiveRecord
